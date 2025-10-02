@@ -1,0 +1,469 @@
+SocketCopyPasteBuffer
+NumSockets=72
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_42" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_42'"
+   SocketName="MeteorProjectileMuzzle"
+   BoneName="root"
+   RelativeLocation=(X=100.000000,Y=12.356180,Z=200.000000)
+   RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_37" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_37'"
+   SocketName="IceSpike"
+   BoneName="root"
+   RelativeLocation=(X=-0.000000,Y=200.000000,Z=20.000000)
+   RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_13" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_13'"
+   SocketName="Collision_F"
+   BoneName="root"
+   RelativeLocation=(X=0.000000,Y=50.000000,Z=70.000000)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_52" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_52'"
+   SocketName="Prop"
+   BoneName="ik_hand_gun"
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_68" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_68'"
+   SocketName="ik_hand_gunSocket"
+   BoneName="ik_hand_gun"
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_35" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_35'"
+   SocketName="AxeAttachSocket"
+   BoneName="spine_01"
+   RelativeLocation=(X=-8.856381,Y=-1.348209,Z=-22.132946)
+   RelativeRotation=(Pitch=-6.144602,Yaw=-142.767090,Roll=85.994881)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_34" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_34'"
+   SocketName="BowAttachSocket"
+   BoneName="spine_01"
+   RelativeLocation=(X=18.770632,Y=-22.439426,Z=6.317920)
+   RelativeRotation=(Pitch=60.095280,Yaw=176.532166,Roll=-173.155563)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_33" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_33'"
+   SocketName="DualSwordSheath_R"
+   BoneName="spine_01"
+   RelativeLocation=(X=63.266117,Y=-31.517122,Z=16.664589)
+   RelativeRotation=(Pitch=66.655884,Yaw=177.547348,Roll=-173.746826)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_32" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_32'"
+   SocketName="DualSwordSheath_L"
+   BoneName="spine_01"
+   RelativeLocation=(X=60.341118,Y=-31.414669,Z=-7.373945)
+   RelativeRotation=(Pitch=80.804062,Yaw=20.872042,Roll=29.289431)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_31" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_31'"
+   SocketName="TwinbladeSheath_R"
+   BoneName="spine_01"
+   RelativeLocation=(X=25.143946,Y=-27.095442,Z=-1.286883)
+   RelativeRotation=(Pitch=-50.905884,Yaw=21.018471,Roll=163.394089)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_30" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_30'"
+   SocketName="TwinbladeSheath_L"
+   BoneName="spine_01"
+   RelativeLocation=(X=42.197155,Y=-27.113989,Z=8.761395)
+   RelativeRotation=(Pitch=-52.449814,Yaw=-0.000164,Roll=-0.000113)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_29" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_29'"
+   SocketName="HeavySwordSheath_Back"
+   BoneName="spine_01"
+   RelativeLocation=(X=63.350941,Y=-27.449316,Z=1.404590)
+   RelativeRotation=(Pitch=73.157028,Yaw=-179.999756,Roll=-176.594360)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_28" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_28'"
+   SocketName="HipSheath_L"
+   BoneName="spine_01"
+   RelativeLocation=(X=2.700322,Y=21.023685,Z=-20.446598)
+   RelativeRotation=(Pitch=-4.662628,Yaw=133.399185,Roll=95.662720)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_74" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_74'"
+   SocketName="GreatSwordAttachSocket"
+   BoneName="spine_02"
+   RelativeLocation=(X=46.839053,Y=-8.707125,Z=15.908573)
+   RelativeRotation=(Pitch=-20.000139,Yaw=-169.999115,Roll=0.000077)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_27" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_27'"
+   SocketName="GreatHammerAttachSocket"
+   BoneName="spine_02"
+   RelativeLocation=(X=81.932458,Y=-6.931056,Z=34.134251)
+   RelativeRotation=(Pitch=-60.993220,Yaw=20.268371,Roll=170.754393)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_41" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_41'"
+   SocketName="FengMaoWeapon_Disabled"
+   BoneName="spine_03"
+   RelativeLocation=(X=29.376089,Y=-22.809478,Z=15.528867)
+   RelativeRotation=(Pitch=0.000004,Yaw=99.998163,Roll=-140.000001)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_26" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_26'"
+   SocketName="ToughShieldSheath"
+   BoneName="spine_03"
+   RelativeLocation=(X=-3.455740,Y=-24.790466,Z=3.097167)
+   RelativeRotation=(Pitch=-1.511630,Yaw=-100.049042,Roll=89.092133)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_25" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_25'"
+   SocketName="ShieldSheath"
+   BoneName="spine_03"
+   RelativeLocation=(X=16.033269,Y=-28.251745,Z=3.410386)
+   RelativeRotation=(Pitch=10.031553,Yaw=-100.231194,Roll=89.079353)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_24" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_24'"
+   SocketName="HuntingQuiverSocket"
+   BoneName="spine_03"
+   RelativeLocation=(X=-8.091360,Y=-18.806012,Z=-2.839349)
+   RelativeRotation=(Pitch=-74.257187,Yaw=-21.210365,Roll=23.475933)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_38" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_38'"
+   SocketName="Muzzle_02"
+   BoneName="hand_l"
+   RelativeLocation=(X=8.975125,Y=-0.000573,Z=1.024441)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_59" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_59'"
+   SocketName="Twinsword_L"
+   BoneName="hand_l"
+   RelativeLocation=(X=9.709387,Y=-3.316930,Z=1.711635)
+   RelativeRotation=(Pitch=-79.985947,Yaw=0.000014,Roll=175.003540)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_54" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_54'"
+   SocketName="ToughShieldSocket"
+   BoneName="hand_l"
+   RelativeLocation=(X=1.736843,Y=6.831193,Z=3.640348)
+   RelativeRotation=(Pitch=5.113475,Yaw=68.831337,Roll=97.346748)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_55" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_55'"
+   SocketName="BowHandSocket"
+   BoneName="hand_l"
+   RelativeLocation=(X=10.832586,Y=-1.891138,Z=-2.841401)
+   RelativeRotation=(Pitch=2.121289,Yaw=0.121181,Roll=-8.696031)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_8" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_8'"
+   SocketName="WeaponSocket_L"
+   BoneName="hand_l"
+   RelativeLocation=(X=10.208155,Y=-3.501818,Z=0.494542)
+   RelativeRotation=(Pitch=-9.987861,Yaw=179.999954,Roll=-179.999954)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_72" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_72'"
+   SocketName="HandLTrace"
+   BoneName="hand_l"
+   RelativeLocation=(X=6.512393,Y=-1.168486,Z=0.000249)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_45" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_45'"
+   SocketName="ConsumableItemSocket"
+   BoneName="hand_l"
+   RelativeLocation=(X=7.636305,Y=-5.098487,Z=9.885175)
+   RelativeRotation=(Pitch=0.000061,Yaw=-0.000046,Roll=170.000305)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_50" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_50'"
+   SocketName="ShieldSocket"
+   BoneName="hand_l"
+   RelativeLocation=(X=-0.356186,Y=5.839156,Z=-0.104741)
+   RelativeRotation=(Pitch=23.801214,Yaw=78.988960,Roll=84.058205)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_65" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_65'"
+   SocketName="hand_lSocket_0"
+   BoneName="hand_l"
+   RelativeLocation=(X=8.655761,Y=-5.206343,Z=2.319437)
+   RelativeRotation=(Pitch=-29.996202,Yaw=179.999954,Roll=-179.999954)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_60" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_60'"
+   SocketName="hand_lSocket"
+   BoneName="hand_l"
+   RelativeLocation=(X=7.679185,Y=-2.968606,Z=4.162805)
+   RelativeRotation=(Pitch=-1.385736,Yaw=91.474686,Roll=-169.916458)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_56" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_56'"
+   SocketName="Trail_End"
+   BoneName="hand_l"
+   RelativeLocation=(X=73.060219,Y=-5.285113,Z=-108.719810)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_57" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_57'"
+   SocketName="Trail_Start"
+   BoneName="hand_l"
+   RelativeLocation=(X=22.857927,Y=-4.433386,Z=-81.585983)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_10" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_10'"
+   SocketName="fistTrail_L"
+   BoneName="hand_l"
+   RelativeLocation=(X=33.283165,Y=-18.089367,Z=12.316040)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_9" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_9'"
+   SocketName="fist_L"
+   BoneName="hand_l"
+   RelativeLocation=(X=-0.043303,Y=0.221674,Z=-12.200713)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_73" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_73'"
+   SocketName="GreatSword_L"
+   BoneName="hand_l"
+   RelativeLocation=(X=17.381721,Y=-6.595251,Z=-36.894262)
+   RelativeRotation=(Pitch=-72.129216,Yaw=-22.112451,Roll=9.890875)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_3" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_3'"
+   SocketName="weapon_L_trail_end"
+   BoneName="weapon_L"
+   RelativeLocation=(X=0.000003,Y=-0.000058,Z=119.536819)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_67" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_67'"
+   SocketName="weapon_L_trail_start"
+   BoneName="weapon_L"
+   RelativeLocation=(X=0.000000,Y=-0.000009,Z=17.738560)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_43" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_43'"
+   SocketName="shield_l"
+   BoneName="upperarm_twist_01_l"
+   RelativeLocation=(X=45.595904,Y=9.626727,Z=4.184269)
+   RelativeRotation=(Pitch=-0.811978,Yaw=-6.943991,Roll=83.365971)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_40" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_40'"
+   SocketName="FengMaoWeapon_Active"
+   BoneName="hand_r"
+   RelativeLocation=(X=-7.798687,Y=-35.581415,Z=49.799285)
+   RelativeRotation=(Pitch=32.292134,Yaw=123.423099,Roll=-64.165723)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_39" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_39'"
+   SocketName="Muzzle_01"
+   BoneName="hand_r"
+   RelativeLocation=(X=-8.944201,Y=0.000044,Z=-1.140417)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_36" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_36'"
+   SocketName="MagicHandTarget_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-8.159427,Y=7.765058,Z=1.754709)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_22" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_22'"
+   SocketName="ArrowSocket"
+   BoneName="hand_r"
+   RelativeLocation=(X=-9.829008,Y=2.782993,Z=-0.001100)
+   RelativeRotation=(Pitch=-10.001145,Yaw=169.999786,Roll=-179.999863)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_21" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_21'"
+   SocketName="Twinsword_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-7.853044,Y=5.199203,Z=-3.630724)
+   RelativeRotation=(Pitch=65.387436,Yaw=175.439102,Roll=-4.119540)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_20" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_20'"
+   SocketName="AxeSocket"
+   BoneName="hand_r"
+   RelativeLocation=(X=-9.498625,Y=4.406577,Z=1.057625)
+   RelativeRotation=(Pitch=67.869110,Yaw=-152.332565,Roll=35.812386)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_19" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_19'"
+   SocketName="BowStringSocket"
+   BoneName="hand_r"
+   RelativeLocation=(X=-17.145773,Y=5.091978,Z=-0.715428)
+   RelativeRotation=(Pitch=-5.178458,Yaw=179.999954,Roll=179.999954)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_18" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_18'"
+   SocketName="Hand_RTwinBlade_L"
+   BoneName="hand_r"
+   RelativeLocation=(X=-10.763689,Y=3.744968,Z=-15.833305)
+   RelativeRotation=(Pitch=0.001585,Yaw=-179.999954,Roll=179.999954)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_17" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_17'"
+   SocketName="Hand_RTwinBlade_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-10.378679,Y=4.308711,Z=10.457774)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_16" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_16'"
+   SocketName="HandRTrace"
+   BoneName="hand_r"
+   RelativeLocation=(X=-8.008224,Y=1.242428,Z=-0.000150)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_15" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_15'"
+   SocketName="SnS_Socket"
+   BoneName="hand_r"
+   RelativeLocation=(X=-9.992961,Y=3.564082,Z=1.815235)
+   RelativeRotation=(Pitch=7.907104,Yaw=0.000019,Roll=-0.000021)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_14" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_14'"
+   SocketName="WeaponSocket_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-9.642296,Y=4.135704,Z=3.084660)
+   RelativeRotation=(Pitch=19.841684,Yaw=-1.837314,Roll=-10.479316)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_53" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_53'"
+   SocketName="HeavySwordSocket_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-13.899615,Y=2.606312,Z=4.892502)
+   RelativeRotation=(Pitch=-27.998966,Yaw=168.831589,Roll=12.801665)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_58" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_58'"
+   SocketName="KatanaSocket"
+   BoneName="hand_r"
+   RelativeLocation=(X=-8.178260,Y=5.257231,Z=-0.232261)
+   RelativeRotation=(Pitch=-13.287340,Yaw=-154.965393,Roll=-95.737762)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_64" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_64'"
+   SocketName="hand_rSocket_0"
+   BoneName="hand_r"
+   RelativeLocation=(X=-8.569592,Y=5.497406,Z=0.000014)
+   RelativeRotation=(Pitch=29.999802,Yaw=0.000007,Roll=5.000186)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_62" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_62'"
+   SocketName="Trail_End2"
+   BoneName="hand_r"
+   RelativeLocation=(X=-26.579182,Y=1.802464,Z=22.127201)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_63" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_63'"
+   SocketName="Trail_Start2"
+   BoneName="hand_r"
+   RelativeLocation=(X=-81.357155,Y=2.706275,Z=90.839363)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_61" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_61'"
+   SocketName="hand_rSocket"
+   BoneName="hand_r"
+   RelativeLocation=(X=-5.342518,Y=2.905633,Z=-4.481799)
+   RelativeRotation=(Pitch=0.001332,Yaw=89.998901,Roll=19.986938)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_2" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_2'"
+   SocketName="Hand_RSocket_1"
+   BoneName="Hand_R"
+   RelativeLocation=(X=-7.175921,Y=4.011570,Z=0.125528)
+   RelativeRotation=(Pitch=4.373671,Yaw=72.709740,Roll=-57.109325)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_75" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_75'"
+   SocketName="GreatSword_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-8.407262,Y=2.007490,Z=0.245045)
+   RelativeRotation=(Pitch=78.346198,Yaw=122.294028,Roll=-38.474089)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_1" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_1'"
+   SocketName="Hammer_R"
+   BoneName="hand_r"
+   RelativeLocation=(X=-6.311877,Y=-1.460344,Z=-32.130609)
+   RelativeRotation=(Pitch=-4.839399,Yaw=-179.457530,Roll=-8.551806)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_44" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_44'"
+   SocketName="weapon_r_muzzle"
+   BoneName="weapon_r"
+   RelativeLocation=(X=45.000000,Y=0.000000,Z=25.000000)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_12" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_12'"
+   SocketName="hammer_trail_end"
+   BoneName="weapon_R"
+   RelativeLocation=(X=-39.999939,Y=0.000028,Z=110.000046)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_11" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_11'"
+   SocketName="hammer_trail_start"
+   BoneName="weapon_R"
+   RelativeLocation=(X=45.000065,Y=0.000028,Z=109.999954)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_66" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_66'"
+   SocketName="weapon_R_trail_end"
+   BoneName="weapon_R"
+   RelativeLocation=(X=0.001371,Y=0.000038,Z=151.845001)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_69" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_69'"
+   SocketName="weapon_R_trail_start"
+   BoneName="weapon_R"
+   RelativeLocation=(X=0.000008,Y=0.000003,Z=12.865028)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_23" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_23'"
+   SocketName="headSocket"
+   BoneName="head"
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_5" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_5'"
+   SocketName="calf_l_trail_end"
+   BoneName="calf_l"
+   RelativeLocation=(X=-50.147919,Y=1.965161,Z=3.707597)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_4" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_4'"
+   SocketName="calf_l_trail_start"
+   BoneName="calf_l"
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_51" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_51'"
+   SocketName="FootLTrace"
+   BoneName="foot_l"
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_48" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_48'"
+   SocketName="foot_l_Socket"
+   BoneName="foot_l"
+   RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=-90.000000)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_7" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_7'"
+   SocketName="calf_r_trail_end"
+   BoneName="calf_r"
+   RelativeLocation=(X=50.568626,Y=-0.816832,Z=-3.664594)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_6" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_6'"
+   SocketName="calf_r_trail_start"
+   BoneName="calf_r"
+   RelativeLocation=(X=-1.560308,Y=-9.863922,Z=-0.518077)
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_47" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_47'"
+   SocketName="FootRTrace"
+   BoneName="foot_r"
+End Object
+IsOnSkeleton=1
+Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_46" ExportPath="/Script/Engine.SkeletalMeshSocket'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:SkeletalMeshSocket_46'"
+   SocketName="foot_r_Socket"
+   BoneName="foot_r"
+   RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
+End Object
